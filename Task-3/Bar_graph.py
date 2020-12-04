@@ -7,8 +7,8 @@ Created on Fri Aug 16 18:33:04 2019
 import matplotlib.pyplot as plt
 
 
-cities = ['Salem','Chennai','Coimbatore','Trichy']
-pop = [919150,8696010,2151466,1021717]
+cities = ['Salem','Chennai','Coimbatore','Trichy','Banglore']
+pop = [919150,8696010,2151466,1021717,2359748493]
 
 plt.barh(cities,pop)
 plt.xlabel('Population')
