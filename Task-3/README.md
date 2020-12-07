@@ -5,11 +5,12 @@
 ```python
   bar_chart(x,y,xLabel,yLabel,Title)
 ```
-> x - Represents categories of horizontal axis
-y - Represents datapoints of vertical axis
-xLabel - Category of datapoints plotted along horizontal axis
-yLabel - Category of datapoints plotted along vertical axis
-Title - Heading of the bar chart
+
+* x - Represents categories of horizontal axis
+* y - Represents datapoints of vertical axis
+* xLabel - Category of datapoints plotted along horizontal axis
+* yLabel - Category of datapoints plotted along vertical axis
+* Title - Heading of the bar chart
 
 
 
@@ -20,11 +21,11 @@ Title - Heading of the bar chart
 ```python
   Line_chart(x,y,xLabel,yLabel ,Title)
 ```
-x - Represents categories of horizontal axis
-y - Represents datapoints of vertical axis
-xLabel - Category of datapoints plotted along horizontal axis
-yLabel - Category of datapoints plotted along vertical axis
-Title - Heading of the line chart
+* x - Represents categories of horizontal axis
+* y - Represents datapoints of vertical axis
+* xLabel - Category of datapoints plotted along horizontal axis
+* yLabel - Category of datapoints plotted along vertical axis
+* Title - Heading of the line chart
 
 
 
