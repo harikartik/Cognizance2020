@@ -36,6 +36,19 @@ Eaxmple:
 * Title - *Heading of the line chart*
 
 
+### Example
+
+
+
+
+|I am x|I am y|
+|---|---|
+|-1.00|-1.0|
+|-0.50|0.0|
+|0.00|1.0|
+|0.50|2.0|
+|1.00|3.0|
+
 
 ![line chart](https://d33wubrfki0l68.cloudfront.net/077f05961cfc512d7c0473d75b398ce201e3b530/3c537/wp-content/uploads/2019/07/line-labels.png)
 
