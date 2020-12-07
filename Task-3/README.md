@@ -62,10 +62,21 @@ Example
 * Label - *List of categories*
 * Title - *Heading of the pie chart*
 
-### Example
+Example
 
 
 
+
+
+### Shortstop
+
+|Categoties|percent|
+|---|---|
+| Ozzie Smith | 17.8 |
+| Marty Marion | 6.5 |
+| Edgar Renteria | 58.8 |
+| Dal Maxvill | 3.2 |
+| David Eckstein | 13.7 |
 
 
 
