@@ -1,4 +1,1 @@
-#Methods for plotting
-##Methods
-
-*hi*
+# Methods for plotting
