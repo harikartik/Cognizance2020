@@ -13,8 +13,8 @@
 * Title - *Heading of the bar chart*
 
 ` Example:`
-### Sales of products
-|Products|Sales|
+### Sales of Products
+|products|Sales|
 |---|---|
 |shampoo|200|
 |soap|350|
@@ -22,7 +22,7 @@
 |brush|600|
 
 ```python
-  bar_chart(["shampoo","soap","conditioner","brush"], [200,350,400,600], "Products", "Sales", "Sales of products")
+  bar_chart(["shampoo","soap","conditioner","brush"], [200,350,400,600], "Products", "Sales", "Sales of Products")
 ```
 
 ![Bar chart](https://3.bp.blogspot.com/-vhJS_AqSbVM/W6D9HkeOVEI/AAAAAAAABH0/ZWcla0LK_cQyfXsnHeMGhJxyTHcmBnCCACLcBGAs/s1600/bar1.PNG)
