@@ -22,8 +22,7 @@ Eaxmple:
 |brush|600|
 
 
-
-
+![Barchart](https://3.bp.blogspot.com/-vhJS_AqSbVM/W6D9HkeOVEI/AAAAAAAABH0/ZWcla0LK_cQyfXsnHeMGhJxyTHcmBnCCACLcBGAs/s1600/bar1.PNG)
 
 
 
