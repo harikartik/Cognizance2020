@@ -13,6 +13,7 @@
 * Title - *Heading of the bar chart*
 
 ` Example:`
+
 ### Sales of Products
 |products|sales|
 |---|---|
@@ -39,9 +40,7 @@
 * Title - *Heading of the line chart*
 
 
-Example
-
-
+`Example`
 
 ### With Labels
 |I am x|I am y|
@@ -52,6 +51,9 @@ Example
 |0.50|2.0|
 |1.00|3.0|
 
+```python
+  Line_chart([-1.00,-0.50,0.00,0.50,1.00],[-1.0,0.0,1.0,2.0,3.0],"I am x","I am y","With Labels")
+```
 
 ![line chart](https://d33wubrfki0l68.cloudfront.net/077f05961cfc512d7c0473d75b398ce201e3b530/3c537/wp-content/uploads/2019/07/line-labels.png)
 
