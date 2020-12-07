@@ -36,11 +36,11 @@ Eaxmple:
 * Title - *Heading of the line chart*
 
 
-### Example
+Example
 
 
 
-
+### With Labels
 |I am x|I am y|
 |---|---|
 |-1.00|-1.0|
