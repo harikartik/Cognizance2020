@@ -39,7 +39,6 @@
 * yLabel - *Category of datapoints plotted along vertical axis*
 * Title - *Heading of the line chart*
 
-
 `Example`
 
 ### With Labels
@@ -67,11 +66,7 @@
 * Label - *List of categories*
 * Title - *Heading of the pie chart*
 
-Example
-
-
-
-
+`Example`
 
 ### Shortstop
 
@@ -83,8 +78,8 @@ Example
 | Dal Maxvill | 3.2 |
 | David Eckstein | 13.7 |
 
-
-
-
+```python
+  pie_chart([17.8,6.5,58.8,3.2,13.7],["Ozzie Smith","Marty Marion","Edgar Renteria","Dal Maxvill","David Eckstein"],"Shortstop"
+```
 
 ![pie chart](http://cdn2.vox-cdn.com/assets/4578425/image__9_.png)
