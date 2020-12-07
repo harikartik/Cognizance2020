@@ -7,11 +7,11 @@
   bar_chart(x,y,xLabel,yLabel,Title)
 ```
 
-* x - *Represents categories of horizontal axis*
-* y - *Represents datapoints of vertical axis*
-* xLabel - *Category of datapoints plotted along horizontal axis*
-* yLabel - *Category of datapoints plotted along vertical axis*
-* Title - *Heading of the bar chart*
+* __x__ - *Represents categories of horizontal axis*
+* __y__ - *Represents datapoints of vertical axis*
+* __xLabel__ - *Category of datapoints plotted along horizontal axis*
+* __yLabel__ - *Category of datapoints plotted along vertical axis*
+* __Title__ - *Heading of the bar chart*
 
 ` Example:`
 
@@ -37,11 +37,11 @@
   Line_chart(x,y,xLabel,yLabel ,Title)
 ```
 
-* x - *Represents categories of horizontal axis*
-* y - *Represents datapoints of vertical axis*
-* xLabel - *Category of datapoints plotted along horizontal axis*
-* yLabel - *Category of datapoints plotted along vertical axis*
-* Title - *Heading of the line chart*
+* __x__ - *Represents categories of horizontal axis*
+* __y__ - *Represents datapoints of vertical axis*
+* __xLabel__ - *Category of datapoints plotted along horizontal axis*
+* __yLabel__ - *Category of datapoints plotted along vertical axis*
+* __Title__ - *Heading of the line chart*
 
 `Example`
 
@@ -68,9 +68,9 @@
   pie_chart(x,Label,Title)
 ```
 
-* x - *Corresponding values of the categories*
-* Label - *List of categories*
-* Title - *Heading of the pie chart*
+* __x__ - *Corresponding values of the categories*
+* __Label__ - *List of categories*
+* __Title__ - *Heading of the pie chart*
 
 `Example`
 
