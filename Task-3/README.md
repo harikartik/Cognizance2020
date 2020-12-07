@@ -1,4 +1,5 @@
 # Methods for plotting using Matplotlib                        ![logo](https://th.bing.com/th/id/OIP.SH1yNaY5RBheOFnOu_oGvwHaBx?pid=Api&rs=1)
+---
 
 ## 1. Bar Chart
 
