@@ -12,6 +12,16 @@
 * yLabel - *Category of datapoints plotted along vertical axis*
 * Title - *Heading of the bar chart*
 
+Eaxmple:
+### Sales of products
+|Products|Sales|
+|---|---|
+|shampoo|200|
+|soap|350|
+|conditioner|400|
+|brush|600|
+
+
 
 
 
