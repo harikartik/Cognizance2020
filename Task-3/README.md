@@ -49,8 +49,13 @@ Eaxmple:
 * Label - *List of categories*
 * Title - *Heading of the pie chart*
 
+### Example
 
 
 
 
 
+
+
+
+![pie chart](http://cdn2.vox-cdn.com/assets/4578425/image__9_.png)
