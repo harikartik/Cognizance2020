@@ -15,6 +15,7 @@
 ` Example:`
 
 ### Sales of Products
+---
 |products|sales|
 |---|---|
 |shampoo|200|
@@ -30,9 +31,11 @@
 
 
 ## 2. Line Chart
+
 ```python
   Line_chart(x,y,xLabel,yLabel ,Title)
 ```
+
 * x - *Represents categories of horizontal axis*
 * y - *Represents datapoints of vertical axis*
 * xLabel - *Category of datapoints plotted along horizontal axis*
@@ -42,6 +45,7 @@
 `Example`
 
 ### With Labels
+---
 |I am x|I am y|
 |---|---|
 |-1.00|-1.0|
@@ -58,6 +62,7 @@
 
 
 ## 3. Pie Chart
+
 ```python
   pie_chart(x,Label,Title)
 ```
@@ -69,7 +74,7 @@
 `Example`
 
 ### Shortstop
-
+---
 |Categoties|percent|
 |---|---|
 | Ozzie Smith | 17.8 |
@@ -79,7 +84,7 @@
 | David Eckstein | 13.7 |
 
 ```python
-  pie_chart([17.8,6.5,58.8,3.2,13.7],["Ozzie Smith","Marty Marion","Edgar Renteria","Dal Maxvill","David Eckstein"],"Shortstop"
+  pie_chart([17.8,6.5,58.8,3.2,13.7],["Ozzie Smith","Marty Marion","Edgar Renteria","Dal Maxvill","David Eckstein"],"Shortstop")
 ```
 
 ![pie chart](http://cdn2.vox-cdn.com/assets/4578425/image__9_.png)
